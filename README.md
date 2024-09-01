@@ -6,7 +6,7 @@
   - [x] Use APIs (like Alpha Vantage, IEX Cloud, or Yahoo Finance) to fetch real-time stock market data.
   - [x] Implement data caching and error handling to manage API rate limits and downtime.
 - [ ] Data Processing and Analysis
-  - [ ] Preprocess and clean the data (handling missing values, normalization).
+  - [x] Preprocess and clean the data (handling missing values, normalization).
   - [ ] Apply statistical techniques to analyze trends and patterns (e.g., moving averages, Bollinger Bands).
   - [ ] Use machine learning algorithms to predict stock prices or detect anomalies (e.g., time series forecasting, clustering).
 - [ ] Optimization
