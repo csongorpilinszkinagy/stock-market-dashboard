@@ -7,7 +7,7 @@
   - [x] Implement data caching and error handling to manage API rate limits and downtime.
 - [ ] Data Processing and Analysis
   - [x] Preprocess and clean the data (handling missing values, normalization).
-  - [ ] Apply statistical techniques to analyze trends and patterns (e.g., moving averages, Bollinger Bands).
+  - [x] Apply statistical techniques to analyze trends and patterns (e.g., moving averages, Bollinger Bands).
   - [ ] Use machine learning algorithms to predict stock prices or detect anomalies (e.g., time series forecasting, clustering).
 - [ ] Optimization
   - [ ] Ensure efficient data processing by using appropriate data structures and algorithms.
