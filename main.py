@@ -20,3 +20,11 @@ print("EXPONENTIAL AVERAGE DATA")
 print(exponential_average_data)
 print("BOLLINGER BANDS")
 print(bollinger_bands_data)
+
+
+X, y = data_processor.create_sequences(normalized_data, time_step=60)
+print(X.shape, y.shape)
+print(X)
+print(y)
+results = data_processor.lstm_prediction(X, y)
+print(results)
